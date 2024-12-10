@@ -5,7 +5,7 @@
 This is a **ToDo List** web application built using **Spring Boot** for the backend and **HTML, CSS, and JavaScript** for the frontend. The app allows users to add, update, delete, and view tasks. It's a simple application designed to help you manage your tasks with ease.
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png" alt="ToDo List" />
+  ![image](https://github.com/user-attachments/assets/3f203703-80b5-4832-9528-580b46c749c6)
 </p>
 
 ### Features
@@ -149,6 +149,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ![image](https://github.com/user-attachments/assets/b91dcd2f-4ae2-4ec8-a3fc-aed5d04a0ee3)
 
-
-![image](https://github.com/user-attachments/assets/3f203703-80b5-4832-9528-580b46c749c6)
 
